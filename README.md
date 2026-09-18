@@ -1,5 +1,4 @@
-# ZWX's Notes on Theoretical_Physics
-Mechanics, electrodynamics, quantum mechanics, statistical mechanics, condensed matter theory, classical theory of fields, quantum field theory, etc. Everything about _theoretical physics_ that I know!
+# ZWX's Notes for Physics Lectures at Oxford
 
 I will update gradually but it depends on whether I have time or not :)
 
